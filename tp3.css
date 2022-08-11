@@ -1,5 +1,11 @@
 body{
     text-align: center;
+    background-image: url(./625_417_html-5-is-the-future-but-is-it-the-present.jpg),
+                      url(./css-3-2.png),
+                      url(./171-1718046_javascript-programming-language-logo-hd-png-download.png);
+    background-position: left, center,right;
+    background-repeat: no-repeat, no-repeat,no-repeat;
+    background-size: 400px 200px, 500px 400px,500px 400px;
 }
 
 h1{
